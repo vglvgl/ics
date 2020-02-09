@@ -1,0 +1,405 @@
+{
+	"ics": [
+			{
+				"id": 1,
+				"char": "A",
+				"morse": ".-",
+				"audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f3/A_morse_code.ogg/A_morse_code.ogg.mp3",
+				"name": "alpha",
+				"pronunciation": "[ˈal.fa]",
+				"flag": "https://upload.wikimedia.org/wikipedia/commons/7/71/ICS_Alpha.svg",
+				"meaning": "I have a diver down; keep well clear at slow speed"
+			},
+			{
+				"id": 2,
+				"char": "B",
+				"morse": "-...",
+				"audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b1/B_morse_code.ogg/B_morse_code.ogg.mp3",
+				"name": "bravo",
+				"pronunciation": "[ˈbrɑː.voʊ]",
+				"flag": "https://upload.wikimedia.org/wikipedia/commons/f/f7/ICS_Bravo.svg",
+				"meaning": "I am taking in or discharging or carrying dangerous goods"
+			},
+			{
+				"id": 3,
+				"char": "C",
+				"morse": "-.-.",
+				"audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/25/C_morse_code.ogg/C_morse_code.ogg.mp3",
+				"name": "charlie",
+				"pronunciation": "[ˈtʃɑː.li]",
+				"flag": "https://upload.wikimedia.org/wikipedia/commons/e/e7/ICS_Charlie.svg",
+				"meaning": "Affirmative"
+			},
+			{
+				"id": 4,
+				"char": "D",
+				"morse": "-..",
+				"audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/92/D_morse_code.ogg/D_morse_code.ogg.mp3",
+				"name": "delta",
+				"pronunciation": "[ˈdɛl.tə]",
+				"flag": "https://upload.wikimedia.org/wikipedia/commons/e/eb/ICS_Delta.svg",
+				"meaning": "Keep clear of me; I am maneuvering with difficulty"
+			},
+			{
+				"id": 5,
+				"char": "E",
+				"morse": ".",
+				"audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e7/E_morse_code.ogg/E_morse_code.ogg.mp3",
+				"name": "echo",
+				"pronunciation": "[ˈɛk.oʊ]",
+				"flag": "https://upload.wikimedia.org/wikipedia/commons/0/0b/ICS_Echo.svg",
+				"meaning": "I am altering my course to starboard"
+			},
+			{
+				"id": 6,
+				"char": "F",
+				"morse": "..-.",
+				"audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/63/F_morse_code.ogg/F_morse_code.ogg.mp3",
+				"name": "foxtrot",
+				"pronunciation": "[ˈfɔks.trɔt]",
+				"flag": "https://upload.wikimedia.org/wikipedia/commons/a/a8/ICS_Foxtrot.svg",
+				"meaning": "I am disabled; communicate with me"
+			},
+			{
+				"id": 7,
+				"char": "G",
+				"morse": "--.",
+				"audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/72/G_morse_code.ogg/G_morse_code.ogg.mp3",
+				"name": "golf",
+				"pronunciation": "[gɔlf]",
+				"flag": "https://upload.wikimedia.org/wikipedia/commons/f/fb/ICS_Golf.svg",
+				"meaning": "I require a pilot"
+			},
+			{
+				"id": 8,
+				"char": "H",
+				"morse": "....",
+				"audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/93/H_morse_code.ogg/H_morse_code.ogg.mp3",
+				"name": "hotel",
+				"pronunciation": "[hoʊˈtɛl]",
+				"flag": "https://upload.wikimedia.org/wikipedia/commons/0/0f/ICS_Hotel.svg",
+				"meaning": "I have a pilot on board"
+			},
+			{
+				"id": 9,
+				"char": "I",
+				"morse": "..",
+				"audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d9/I_morse_code.ogg/I_morse_code.ogg.mp3",
+				"name": "india",
+				"pronunciation": "[ˈɪn.dɪə]",
+				"flag": "https://upload.wikimedia.org/wikipedia/commons/8/8e/ICS_India.svg",
+				"meaning": "I am altering my course to port"
+			},
+			{
+				"id": 10,
+				"char": "J",
+				"morse": ".---",
+				"audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/9e/J_morse_code.ogg/J_morse_code.ogg.mp3",
+				"name": "juliet",
+				"pronunciation": "[ˈdʒuː.ljɛt]",
+				"flag": "https://upload.wikimedia.org/wikipedia/commons/a/a0/ICS_Juliet.svg",
+				"meaning": "I am on fire and have dangerous cargo on board: keep well clear of me"
+			},
+			{
+				"id": 11,
+				"char": "K",
+				"morse": "-.-",
+				"audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/6a/K_morse_code.ogg/K_morse_code.ogg.mp3",
+				"name": "kilo",
+				"pronunciation": "[ˈki.loʊ]",
+				"flag": "https://upload.wikimedia.org/wikipedia/commons/a/a8/ICS_Kilo.svg",
+				"meaning": "I wish to communicate with you"
+			},
+			{
+				"id": 12,
+				"char": "L",
+				"morse": ".-..",
+				"audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a8/L_morse_code.ogg/L_morse_code.ogg.mp3",
+				"name": "lima",
+				"pronunciation": "[ˈli.mə]",
+				"flag": "https://upload.wikimedia.org/wikipedia/commons/7/76/ICS_Lima.svg",
+				"meaning": "The ship is quarantined"
+			},
+			{
+				"id": 13,
+				"char": "M",
+				"morse": "--",
+				"audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/97/M_morse_code.ogg/M_morse_code.ogg.mp3",
+				"name": "mike",
+				"pronunciation": "[maɪk]",
+				"flag": "https://upload.wikimedia.org/wikipedia/commons/7/73/ICS_Mike.svg",
+				"meaning": "My vessel is stopped and making no way through the water"
+			},
+			{
+				"id": 14,
+				"char": "N",
+				"morse": "-.",
+				"audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5a/N_morse_code.ogg/N_morse_code.ogg.mp3",
+				"name": "november",
+				"pronunciation": "[noʊˈvɛm.bə]",
+				"flag": "https://upload.wikimedia.org/wikipedia/commons/2/21/ICS_November.svg",
+				"meaning": "Negative"
+			},
+			{
+				"id": 15,
+				"char": "O",
+				"morse": "---",
+				"audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/41/O_morse_code.ogg/O_morse_code.ogg.mp3",
+				"name": "oscar",
+				"pronunciation": "[ˈɔs.kə]",
+				"flag": "https://upload.wikimedia.org/wikipedia/commons/c/c9/ICS_Oscar.svg",
+				"meaning": "Man overboard"
+			},
+			{
+				"id": 16,
+				"char": "P",
+				"morse": ".--.",
+				"audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c6/P_morse_code.ogg/P_morse_code.ogg.mp3",
+				"name": "papa",
+				"pronunciation": "[ˈpa.pə]",
+				"flag": "https://upload.wikimedia.org/wikipedia/commons/d/d0/ICS_Papa.svg",
+				"meaning": "All persons should report on board as the vessel is about to proceed to sea"
+			},
+			{
+				"id": 17,
+				"char": "Q",
+				"morse": "--.-",
+				"audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f0/Q_morse_code.ogg/Q_morse_code.ogg.mp3",
+				"name": "quebec",
+				"pronunciation": "[kəˈbɛk]",
+				"flag": "https://upload.wikimedia.org/wikipedia/commons/d/d4/ICS_Quebec.svg",
+				"meaning": ""
+			},
+			{
+				"id": 18,
+				"char": "R",
+				"morse": ".-.",
+				"audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/ea/R_morse_code.ogg/R_morse_code.ogg.mp3",
+				"name": "romeo",
+				"pronunciation": "[ˈroʊ.mjoʊ]",
+				"flag": "https://upload.wikimedia.org/wikipedia/commons/b/bf/ICS_Romeo.svg",
+				"meaning": "My vessel is 'healthy' and I request free pratique"
+			},
+			{
+				"id": 19,
+				"char": "S",
+				"morse": "...",
+				"audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d8/S_morse_code.ogg/S_morse_code.ogg.mp3",
+				"name": "sierra",
+				"pronunciation": "[siˈɛrə]",
+				"flag": "https://upload.wikimedia.org/wikipedia/commons/3/36/ICS_Sierra.svg",
+				"meaning": "(No ICS meaning as a single flag)"
+			},
+			{
+				"id": 20,
+				"char": "T",
+				"morse": "-",
+				"audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/ba/T_morse_code.ogg/T_morse_code.ogg.mp3",
+				"name": "tango",
+				"pronunciation": "[ˈtaŋ.goʊ]",
+				"flag": "https://upload.wikimedia.org/wikipedia/commons/1/1e/ICS_Tango.svg",
+				"meaning": "Keep clear of me; I am engaged in pair trawling." 
+			},
+			{
+				"id": 21,
+				"char": "U",
+				"morse": "..-",
+				"audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/34/U_morse_code.ogg/U_morse_code.ogg.mp3",
+				"name": "uniform",
+				"pronunciation": "[ˈjuː.nɪ.fɔːm]",
+				"flag": "https://upload.wikimedia.org/wikipedia/commons/e/e2/ICS_Uniform.svg",
+				"meaning": "You are running into danger."
+			},
+			{
+				"id": 22,
+				"char": "V",
+				"morse": "...-",
+				"audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/37/V_morse_code.ogg/V_morse_code.ogg.mp3",
+				"name": "victor",
+				"pronunciation": "[ˈvɪk.tə]",
+				"flag": "",
+				"meaning": "I require assistance."
+			},
+			{
+				"id": 23,
+				"char": "W",
+				"morse": ".--",
+				"audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/68/W_morse_code.ogg/W_morse_code.ogg.mp3",
+				"name": "whiskey",
+				"pronunciation": "[ˈwɪs.ki]",
+				"flag": "https://upload.wikimedia.org/wikipedia/commons/8/88/ICS_Whiskey.svg",
+				"meaning": "I require medical assistance."
+			},
+			{
+				"id": 24,
+				"char": "X",
+				"morse": "-..-",
+				"audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/be/X_morse_code.ogg/X_morse_code.ogg.mp3",
+				"name": "xray",
+				"pronunciation": "[ˈɛks.reɪ]",
+				"flag": "https://upload.wikimedia.org/wikipedia/commons/b/ba/ICS_X-ray.svg",
+				"meaning": "Stop carrying out your intentions and watch for my signals."
+			},
+			{
+				"id": 25,
+				"char": "Y",
+				"morse": "-.--",
+				"audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5d/Y_morse_code.ogg/Y_morse_code.ogg.mp3",
+				"name": "yankee",
+				"pronunciation": "[ˈjaŋ.ki]",
+				"flag": "https://upload.wikimedia.org/wikipedia/commons/2/23/ICS_Yankee.svg",
+				"meaning": "I am dragging my anchor."
+			},
+			{
+				"id": 26,
+				"char": "Z",
+				"morse": "--..",
+				"audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/7a/Z_morse_code.ogg/Z_morse_code.ogg.mp3",
+				"name": "zulu",
+				"pronunciation": "[ˈzuː.luː]",
+				"flag": "https://upload.wikimedia.org/wikipedia/commons/c/c6/ICS_Zulu.svg",
+				"meaning": "I require a tug."
+			},
+			{
+				"id": 27,
+				"char": 0,
+				"morse": "-----",
+				"audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5d/0_number_morse_code.ogg/0_number_morse_code.ogg.mp3",
+				"name": "nadazero",
+				"pronunciation": "[ˈzuː.luː]",
+				"flag": "https://upload.wikimedia.org/wikipedia/commons/a/ac/ICS_Pennant_Zero.svg",
+				"meaning": "Zero"
+			},
+			{
+				"id": 28,
+				"char": 1,
+				"morse": ".----",
+				"audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/9b/1_number_morse_code.ogg/1_number_morse_code.ogg.mp3",
+				"name": "unaone",
+				"pronunciation": "[ˌna.daˈzɪə.roʊ]",
+				"flag": "https://upload.wikimedia.org/wikipedia/commons/c/c1/ICS_Pennant_One.svg",
+				"meaning": "One"
+			},
+			{
+				"id": 29,
+				"char": 2,
+				"morse": "..---",
+				"audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/ee/2_number_morse_code.ogg/2_number_morse_code.ogg.mp3",
+				"name": "bissotwo",
+				"pronunciation": "[ˌbɪs.oʊˈtuː]",
+				"flag": "https://upload.wikimedia.org/wikipedia/commons/c/c0/ICS_Pennant_Two.svg",
+				"meaning": "Two"
+			},
+			{
+				"id": 30,
+				"char": 3,
+				"morse": "...--",
+				"audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/fd/3_number_morse_code.ogg/3_number_morse_code.ogg.mp3",
+				"name": "terrathree",
+				"pronunciation": "[ˌtɛr.əˈtri]",
+				"flag": "https://upload.wikimedia.org/wikipedia/commons/6/64/ICS_Pennant_Three.svg",
+				"meaning": "Three"
+			},
+			{
+				"id": 31,
+				"char": 4,
+				"morse": "....-",
+				"audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5c/4_number_morse_code.ogg/4_number_morse_code.ogg.mp3",
+				"name": "kartefour",
+				"pronunciation": "[ˌkɑː.təˈfɔː.wə]",
+				"flag": "https://upload.wikimedia.org/wikipedia/commons/8/87/ICS_Pennant_Four.svg",
+				"meaning": "Four"
+			},
+			{
+				"id": 32,
+				"char": 5,
+				"morse": ".....",
+				"audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/52/5_number_morse_code.ogg/5_number_morse_code.ogg.mp3",
+				"name": "pantafive",
+				"pronunciation": "[ˌpan.təˈfaɪf]",
+				"flag": "https://upload.wikimedia.org/wikipedia/commons/a/ad/ICS_Pennant_Five.svg",
+				"meaning": "Five"
+			},
+			{
+				"id": 33,
+				"char": 6,
+				"morse": "-....",
+				"audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/4d/6_number_morse_code.ogg/6_number_morse_code.ogg.mp3",
+				"name": "soxisix",
+				"pronunciation": "[ˌsɔk.siˈsɪks]",
+				"flag": "https://upload.wikimedia.org/wikipedia/commons/d/da/ICS_Pennant_Six.svg",
+				"meaning": "Six"
+			},
+			{
+				"id": 34,
+				"char": 7,
+				"morse": "--...",
+				"audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/14/7_number_morse_code.ogg/7_number_morse_code.ogg.mp3",
+				"name": "setteseven",
+				"pronunciation": "[ˌsɛ.təˈsɛv.ən]",
+				"flag": "https://upload.wikimedia.org/wikipedia/commons/b/b8/ICS_Pennant_Seven.svg",
+				"meaning": "Seven"
+			},
+			{
+				"id": 35,
+				"char": 8,
+				"morse": "---..",
+				"audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/3a/8_number_morse_code.ogg/8_number_morse_code.ogg.mp3",
+				"name": "oktoeight",
+				"pronunciation": "[ˌɔk.toʊˈeɪt]",
+				"flag": "https://upload.wikimedia.org/wikipedia/commons/3/30/ICS_Pennant_Eight.svg",
+				"meaning": "Eight"
+			},
+			{
+				"id": 36,
+				"char": 9,
+				"morse": "----.",
+				"audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/44/9_number_morse_code.ogg/9_number_morse_code.ogg.mp3",
+				"name": "novenine",
+				"pronunciation": "[ˌnoʊ.veˈnaɪ.nə]",
+				"flag": "https://upload.wikimedia.org/wikipedia/commons/2/2c/ICS_Pennant_Niner.svg",
+				"meaning": "Nine"
+			},
+			{
+				"id": 37,
+				"char": "",
+				"morse": "",
+				"audio": "",
+				"name": "1st substitute",
+				"pronunciation": "",
+				"flag": "https://upload.wikimedia.org/wikipedia/commons/6/61/ICS_Repeat_One.svg",
+				"meaning": "Used to repeat the first flag of a hoist later within the same hoist. This and the other two substitutes allows any four letter or number combination to be sent using only one set of flags."
+			},
+			{
+				"id": 38,
+				"char": "",
+				"morse": "",
+				"audio": "",
+				"name": "2nd substitute",
+				"pronunciation": "",
+				"flag": "https://upload.wikimedia.org/wikipedia/commons/0/08/ICS_Repeat_Two.svg",
+				"meaning": "Used to repeat the second flag of a hoist later within the same hoist."
+			},
+			{
+				"id": 39,
+				"char": "",
+				"morse": "",
+				"audio": "",
+				"name": "3rd substitute",
+				"pronunciation": "",
+				"flag": "https://upload.wikimedia.org/wikipedia/commons/7/74/ICS_Repeat_Three.svg",
+				"meaning": "Used to repeat the third flag of a hoist later within the same hoist."
+			},
+			{
+				"id": 40,
+				"char": "",
+				"morse": "",
+				"audio": "",
+				"name": "code/answer pennant",
+				"pronunciation": "",
+				"flag": "https://upload.wikimedia.org/wikipedia/commons/5/5c/ICS_Answer.svg",
+				"meaning": "At the dip (about half-way up the halyard): Ready to receive message. Close up: Message has been received and understood (the flag is then hauled back at the dip to receive the next hoist). Hauled down: Signals end of message. By a warship: When flown over a hoist, indicates the message is to be read according to the ICS."
+			}
+	]
+
+}
